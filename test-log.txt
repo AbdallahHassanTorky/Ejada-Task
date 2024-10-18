@@ -1,0 +1,166 @@
+[2024-10-17 21:39:29] Test Started: testLogin (Class: steps.TestSteps, Method: testLogin)
+[2024-10-17 21:39:31] Test Passed: testLogin (Class: steps.TestSteps, Method: testLogin)
+[2024-10-17 21:39:31] Test Started: testLogin (Class: steps.TestSteps, Method: testLogin)
+[2024-10-17 21:39:31] Test Passed: testLogin (Class: steps.TestSteps, Method: testLogin)
+[2024-10-17 21:39:31] Test Started: testLogin (Class: steps.TestSteps, Method: testLogin)
+[2024-10-17 21:39:32] Test Passed: testLogin (Class: steps.TestSteps, Method: testLogin)
+[2024-10-17 21:39:32] Test Started: testLogin (Class: steps.TestSteps, Method: testLogin)
+[2024-10-17 21:39:32] Test Passed: testLogin (Class: steps.TestSteps, Method: testLogin)
+Test Suite Finished. Total Tests: 1 | Passed: 4 | Failed: 0 | Skipped: 0
+[34m2024-10-17 21:42:08 | STARTED | testLogin                      | steps.TestSteps                | testLogin                     [0m
+[32m2024-10-17 21:42:09 | PASSED  | testLogin                      | steps.TestSteps                | testLogin                     [0m
+[34m2024-10-17 21:42:09 | STARTED | testLogin                      | steps.TestSteps                | testLogin                     [0m
+[32m2024-10-17 21:42:10 | PASSED  | testLogin                      | steps.TestSteps                | testLogin                     [0m
+[34m2024-10-17 21:42:10 | STARTED | testLogin                      | steps.TestSteps                | testLogin                     [0m
+[32m2024-10-17 21:42:10 | PASSED  | testLogin                      | steps.TestSteps                | testLogin                     [0m
+[34m2024-10-17 21:42:10 | STARTED | testLogin                      | steps.TestSteps                | testLogin                     [0m
+[32m2024-10-17 21:42:11 | PASSED  | testLogin                      | steps.TestSteps                | testLogin                     [0m
+SUMMARY    | 4 | 0 | 0
+[34m2024-10-18 21:29:19 | STARTED | testShoppingProcess            | steps.TestSteps$Test2          | testShoppingProcess           [0m
+[33m2024-10-18 21:29:19 | SKIPPED | testShoppingProcess            | steps.TestSteps$Test2          | testShoppingProcess           [0m
+SUMMARY    | 0 | 0 | 1
+[34m2024-10-18 21:35:20 | STARTED | Invalid                        | steps.TestSteps$Test2          | Invalid                       [0m
+[33m2024-10-18 21:35:20 | SKIPPED | Invalid                        | steps.TestSteps$Test2          | Invalid                       [0m
+SUMMARY    | 0 | 0 | 1
+[34m2024-10-18 21:37:09 | STARTED | Invalid                        | steps.TestSteps$Test2          | Invalid                       [0m
+[32m2024-10-18 21:37:09 | PASSED  | Invalid                        | steps.TestSteps$Test2          | Invalid                       [0m
+SUMMARY    | 1 | 0 | 0
+[34m2024-10-18 21:39:45 | STARTED | Invalid                        | steps.TestSteps$Test2          | Invalid                       [0m
+[31m2024-10-18 21:39:47 | FAILED  | Invalid                        | steps.TestSteps$Test2          | Invalid                       [0m | Reason: java.lang.AssertionError: expected [true] but found [false]
+SUMMARY    | 0 | 1 | 0
+[34m2024-10-18 21:42:34 | STARTED | Invalid                        | steps.TestSteps$Test2          | Invalid                       [0m
+[32m2024-10-18 21:42:35 | PASSED  | Invalid                        | steps.TestSteps$Test2          | Invalid                       [0m
+SUMMARY    | 1 | 0 | 0
+[34m2024-10-18 21:43:35 | STARTED | Invalid                        | steps.TestSteps$Test2          | Invalid                       [0m
+[32m2024-10-18 21:43:36 | PASSED  | Invalid                        | steps.TestSteps$Test2          | Invalid                       [0m
+SUMMARY    | 1 | 0 | 0
+[34m2024-10-18 21:44:21 | STARTED | Invalid                        | steps.TestSteps$Test2          | Invalid                       [0m
+[32m2024-10-18 21:44:22 | PASSED  | Invalid                        | steps.TestSteps$Test2          | Invalid                       [0m
+SUMMARY    | 1 | 0 | 0
+[34m2024-10-18 21:45:00 | STARTED | Invalid                        | steps.TestSteps$Test2          | Invalid                       [0m
+[31m2024-10-18 21:45:01 | FAILED  | Invalid                        | steps.TestSteps$Test2          | Invalid                       [0m | Reason: java.lang.AssertionError: expected [true] but found [false]
+SUMMARY    | 0 | 1 | 0
+[34m2024-10-18 21:45:43 | STARTED | Invalid                        | steps.TestSteps$Test2          | Invalid                       [0m
+[31m2024-10-18 21:45:44 | FAILED  | Invalid                        | steps.TestSteps$Test2          | Invalid                       [0m | Reason: java.lang.AssertionError: expected [true] but found [false]
+SUMMARY    | 0 | 1 | 0
+[34m2024-10-18 21:46:31 | STARTED | Invalid                        | steps.TestSteps$Test2          | Invalid                       [0m
+[32m2024-10-18 21:46:32 | PASSED  | Invalid                        | steps.TestSteps$Test2          | Invalid                       [0m
+SUMMARY    | 1 | 0 | 0
+[34m2024-10-18 21:47:16 | STARTED | Invalid                        | steps.TestSteps$Test2          | Invalid                       [0m
+[32m2024-10-18 21:47:18 | PASSED  | Invalid                        | steps.TestSteps$Test2          | Invalid                       [0m
+SUMMARY    | 1 | 0 | 0
+[34m2024-10-18 21:48:19 | STARTED | Invalid                        | steps.TestSteps$Test2          | Invalid                       [0m
+[32m2024-10-18 21:48:21 | PASSED  | Invalid                        | steps.TestSteps$Test2          | Invalid                       [0m
+SUMMARY    | 1 | 0 | 0
+[34m2024-10-18 21:48:55 | STARTED | Invalid                        | steps.TestSteps$Test2          | Invalid                       [0m
+[32m2024-10-18 21:48:58 | PASSED  | Invalid                        | steps.TestSteps$Test2          | Invalid                       [0m
+SUMMARY    | 1 | 0 | 0
+[34m2024-10-18 21:53:07 | STARTED | Invalid                        | steps.TestSteps$Test2          | Invalid                       [0m
+[32m2024-10-18 21:53:09 | PASSED  | Invalid                        | steps.TestSteps$Test2          | Invalid                       [0m
+SUMMARY    | 1 | 0 | 0
+[34m2024-10-18 21:53:36 | STARTED | Invalid                        | steps.TestSteps$Test2          | Invalid                       [0m
+[34m2024-10-18 21:53:36 | STARTED | testLogin                      | steps.TestSteps$Test1          | testLogin                     [0m
+[31m2024-10-18 21:53:37 | FAILED  | Invalid                        | steps.TestSteps$Test2          | Invalid                       [0m | Reason: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"#user\-name"}
+  (Session info: MicrosoftEdge=129.0.2792.89)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.25.0', revision: '8a8aea2337'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '23'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [7ce734a67e4a424f84e1a0c3f1dafa9d, findElement {using=id, value=user-name}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 129.0.2792.89, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:51000}, msedge: {msedgedriverVersion: 129.0.2792.89 (65986ec8d2a8..., userDataDir: C:\Users\AMIT\AppData\Local...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:51000/devtoo..., se:cdpVersion: 129.0.2792.89, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 7ce734a67e4a424f84e1a0c3f1dafa9d
+[32m2024-10-18 21:53:37 | PASSED  | testLogin                      | steps.TestSteps$Test1          | testLogin                     [0m
+[34m2024-10-18 21:53:37 | STARTED | testLogin                      | steps.TestSteps$Test1          | testLogin                     [0m
+[32m2024-10-18 21:53:38 | PASSED  | testLogin                      | steps.TestSteps$Test1          | testLogin                     [0m
+[34m2024-10-18 21:53:38 | STARTED | testLogin                      | steps.TestSteps$Test1          | testLogin                     [0m
+[32m2024-10-18 21:53:38 | PASSED  | testLogin                      | steps.TestSteps$Test1          | testLogin                     [0m
+[34m2024-10-18 21:53:38 | STARTED | testLogin                      | steps.TestSteps$Test1          | testLogin                     [0m
+[32m2024-10-18 21:53:39 | PASSED  | testLogin                      | steps.TestSteps$Test1          | testLogin                     [0m
+SUMMARY    | 4 | 1 | 0
+[34m2024-10-18 21:55:36 | STARTED | Invalid                        | steps.TestSteps$Test2          | Invalid                       [0m
+[34m2024-10-18 21:55:36 | STARTED | testLogin                      | steps.TestSteps$Test1          | testLogin                     [0m
+[32m2024-10-18 21:55:38 | PASSED  | testLogin                      | steps.TestSteps$Test1          | testLogin                     [0m
+[34m2024-10-18 21:55:38 | STARTED | testLogin                      | steps.TestSteps$Test1          | testLogin                     [0m
+[32m2024-10-18 21:55:39 | PASSED  | testLogin                      | steps.TestSteps$Test1          | testLogin                     [0m
+[34m2024-10-18 21:55:39 | STARTED | testLogin                      | steps.TestSteps$Test1          | testLogin                     [0m
+[32m2024-10-18 21:55:39 | PASSED  | Invalid                        | steps.TestSteps$Test2          | Invalid                       [0m
+[32m2024-10-18 21:55:39 | PASSED  | testLogin                      | steps.TestSteps$Test1          | testLogin                     [0m
+[34m2024-10-18 21:55:39 | STARTED | testLogin                      | steps.TestSteps$Test1          | testLogin                     [0m
+[32m2024-10-18 21:55:39 | PASSED  | testLogin                      | steps.TestSteps$Test1          | testLogin                     [0m
+SUMMARY    | 5 | 0 | 0
+[34m2024-10-18 23:09:26 | STARTED | testLogin                      | steps.TestSteps$Test1          | testLogin                     [0m
+[34m2024-10-18 23:09:26 | STARTED | Invalid                        | steps.TestSteps$Test2          | Invalid                       [0m
+[33m2024-10-18 23:09:26 | SKIPPED | testLogin                      | steps.TestSteps$Test1          | testLogin                     [0m
+[33m2024-10-18 23:09:26 | SKIPPED | Invalid                        | steps.TestSteps$Test2          | Invalid                       [0m
+[34m2024-10-18 23:09:26 | STARTED | testLogin                      | steps.TestSteps$Test1          | testLogin                     [0m
+[33m2024-10-18 23:09:26 | SKIPPED | testLogin                      | steps.TestSteps$Test1          | testLogin                     [0m
+[34m2024-10-18 23:09:26 | STARTED | testLogin                      | steps.TestSteps$Test1          | testLogin                     [0m
+[33m2024-10-18 23:09:26 | SKIPPED | testLogin                      | steps.TestSteps$Test1          | testLogin                     [0m
+[34m2024-10-18 23:09:26 | STARTED | testLogin                      | steps.TestSteps$Test1          | testLogin                     [0m
+[33m2024-10-18 23:09:26 | SKIPPED | testLogin                      | steps.TestSteps$Test1          | testLogin                     [0m
+SUMMARY    | 0 | 0 | 5
+[34m2024-10-18 23:10:43 | STARTED | Invalid                        | steps.TestSteps$Test2          | Invalid                       [0m
+[33m2024-10-18 23:10:43 | SKIPPED | Invalid                        | steps.TestSteps$Test2          | Invalid                       [0m
+[34m2024-10-18 23:10:43 | STARTED | testLogin                      | steps.TestSteps$Test1          | testLogin                     [0m
+[33m2024-10-18 23:10:43 | SKIPPED | testLogin                      | steps.TestSteps$Test1          | testLogin                     [0m
+[34m2024-10-18 23:10:43 | STARTED | testLogin                      | steps.TestSteps$Test1          | testLogin                     [0m
+[33m2024-10-18 23:10:43 | SKIPPED | testLogin                      | steps.TestSteps$Test1          | testLogin                     [0m
+[34m2024-10-18 23:10:43 | STARTED | testLogin                      | steps.TestSteps$Test1          | testLogin                     [0m
+[33m2024-10-18 23:10:43 | SKIPPED | testLogin                      | steps.TestSteps$Test1          | testLogin                     [0m
+[34m2024-10-18 23:10:43 | STARTED | testLogin                      | steps.TestSteps$Test1          | testLogin                     [0m
+[33m2024-10-18 23:10:43 | SKIPPED | testLogin                      | steps.TestSteps$Test1          | testLogin                     [0m
+SUMMARY    | 0 | 0 | 5
+[34m2024-10-18 23:12:41 | STARTED | testLogin                      | steps.TestSteps$Test1          | testLogin                     [0m
+[33m2024-10-18 23:12:41 | SKIPPED | testLogin                      | steps.TestSteps$Test1          | testLogin                     [0m
+[34m2024-10-18 23:12:41 | STARTED | testLogin                      | steps.TestSteps$Test1          | testLogin                     [0m
+[33m2024-10-18 23:12:41 | SKIPPED | testLogin                      | steps.TestSteps$Test1          | testLogin                     [0m
+[34m2024-10-18 23:12:41 | STARTED | testLogin                      | steps.TestSteps$Test1          | testLogin                     [0m
+[33m2024-10-18 23:12:41 | SKIPPED | testLogin                      | steps.TestSteps$Test1          | testLogin                     [0m
+[34m2024-10-18 23:12:41 | STARTED | testLogin                      | steps.TestSteps$Test1          | testLogin                     [0m
+[33m2024-10-18 23:12:41 | SKIPPED | testLogin                      | steps.TestSteps$Test1          | testLogin                     [0m
+SUMMARY    | 0 | 0 | 4
+[34m2024-10-18 23:13:45 | STARTED | testLogin                      | steps.TestSteps$Test1          | testLogin                     [0m
+[33m2024-10-18 23:13:45 | SKIPPED | testLogin                      | steps.TestSteps$Test1          | testLogin                     [0m
+[34m2024-10-18 23:13:45 | STARTED | testLogin                      | steps.TestSteps$Test1          | testLogin                     [0m
+[33m2024-10-18 23:13:45 | SKIPPED | testLogin                      | steps.TestSteps$Test1          | testLogin                     [0m
+[34m2024-10-18 23:13:45 | STARTED | testLogin                      | steps.TestSteps$Test1          | testLogin                     [0m
+[33m2024-10-18 23:13:45 | SKIPPED | testLogin                      | steps.TestSteps$Test1          | testLogin                     [0m
+[34m2024-10-18 23:13:45 | STARTED | testLogin                      | steps.TestSteps$Test1          | testLogin                     [0m
+[33m2024-10-18 23:13:45 | SKIPPED | testLogin                      | steps.TestSteps$Test1          | testLogin                     [0m
+SUMMARY    | 0 | 0 | 4
+[34m2024-10-18 23:16:14 | STARTED | testLogin                      | steps.TestSteps$Test1          | testLogin                     [0m
+[33m2024-10-18 23:16:14 | SKIPPED | testLogin                      | steps.TestSteps$Test1          | testLogin                     [0m
+[34m2024-10-18 23:16:14 | STARTED | testLogin                      | steps.TestSteps$Test1          | testLogin                     [0m
+[33m2024-10-18 23:16:14 | SKIPPED | testLogin                      | steps.TestSteps$Test1          | testLogin                     [0m
+[34m2024-10-18 23:16:14 | STARTED | testLogin                      | steps.TestSteps$Test1          | testLogin                     [0m
+[33m2024-10-18 23:16:14 | SKIPPED | testLogin                      | steps.TestSteps$Test1          | testLogin                     [0m
+[34m2024-10-18 23:16:14 | STARTED | testLogin                      | steps.TestSteps$Test1          | testLogin                     [0m
+[33m2024-10-18 23:16:14 | SKIPPED | testLogin                      | steps.TestSteps$Test1          | testLogin                     [0m
+SUMMARY    | 0 | 0 | 4
+[34m2024-10-18 23:16:47 | STARTED | testLogin                      | steps.TestSteps$Test1          | testLogin                     [0m
+[33m2024-10-18 23:16:47 | SKIPPED | testLogin                      | steps.TestSteps$Test1          | testLogin                     [0m
+[34m2024-10-18 23:16:47 | STARTED | testLogin                      | steps.TestSteps$Test1          | testLogin                     [0m
+[33m2024-10-18 23:16:47 | SKIPPED | testLogin                      | steps.TestSteps$Test1          | testLogin                     [0m
+[34m2024-10-18 23:16:47 | STARTED | testLogin                      | steps.TestSteps$Test1          | testLogin                     [0m
+[33m2024-10-18 23:16:47 | SKIPPED | testLogin                      | steps.TestSteps$Test1          | testLogin                     [0m
+[34m2024-10-18 23:16:47 | STARTED | testLogin                      | steps.TestSteps$Test1          | testLogin                     [0m
+[33m2024-10-18 23:16:47 | SKIPPED | testLogin                      | steps.TestSteps$Test1          | testLogin                     [0m
+SUMMARY    | 0 | 0 | 4
+[34m2024-10-18 23:18:47 | STARTED | testLogin                      | steps.TestSteps$Test1          | testLogin                     [0m
+[33m2024-10-18 23:18:47 | SKIPPED | testLogin                      | steps.TestSteps$Test1          | testLogin                     [0m
+[34m2024-10-18 23:18:47 | STARTED | testLogin                      | steps.TestSteps$Test1          | testLogin                     [0m
+[33m2024-10-18 23:18:47 | SKIPPED | testLogin                      | steps.TestSteps$Test1          | testLogin                     [0m
+[34m2024-10-18 23:18:47 | STARTED | testLogin                      | steps.TestSteps$Test1          | testLogin                     [0m
+[33m2024-10-18 23:18:47 | SKIPPED | testLogin                      | steps.TestSteps$Test1          | testLogin                     [0m
+[34m2024-10-18 23:18:47 | STARTED | testLogin                      | steps.TestSteps$Test1          | testLogin                     [0m
+[33m2024-10-18 23:18:47 | SKIPPED | testLogin                      | steps.TestSteps$Test1          | testLogin                     [0m
+SUMMARY    | 0 | 0 | 4
+[34m2024-10-18 23:20:16 | STARTED | testLogin                      | steps.TestSteps$Test1          | testLogin                     [0m
+[32m2024-10-18 23:20:17 | PASSED  | testLogin                      | steps.TestSteps$Test1          | testLogin                     [0m
+[34m2024-10-18 23:20:17 | STARTED | testLogin                      | steps.TestSteps$Test1          | testLogin                     [0m
+[32m2024-10-18 23:20:18 | PASSED  | testLogin                      | steps.TestSteps$Test1          | testLogin                     [0m
+[34m2024-10-18 23:20:18 | STARTED | testLogin                      | steps.TestSteps$Test1          | testLogin                     [0m
+[32m2024-10-18 23:20:19 | PASSED  | testLogin                      | steps.TestSteps$Test1          | testLogin                     [0m
+[34m2024-10-18 23:20:19 | STARTED | testLogin                      | steps.TestSteps$Test1          | testLogin                     [0m
+[32m2024-10-18 23:20:19 | PASSED  | testLogin                      | steps.TestSteps$Test1          | testLogin                     [0m
+SUMMARY    | 4 | 0 | 0

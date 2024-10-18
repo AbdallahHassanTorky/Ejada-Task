@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite" parallel="methods" thread-count="2">
+    <listeners>
+        <listener class-name="path.to.CustomTestListener"/> <!-- Update with your listener's path -->
+    </listeners>
+    <test name="Test">
+        <classes>
+            <class name="steps.TestSteps"/> <!-- Update with your test class name -->
+        </classes>
+    </test>
+</suite>
